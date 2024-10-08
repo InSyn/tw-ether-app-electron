@@ -1,0 +1,16 @@
+<script lang="ts" setup>
+import {onMounted} from "vue";
+import {useRoute} from "vue-router";
+
+const route = useRoute()
+onMounted(()=>{
+  console.log(route)
+})
+</script>
+
+<template>
+  <router-view></router-view>
+</template>
+
+<style>
+</style>

@@ -1,0 +1,13 @@
+:root {
+  --background-primary: #1b1b1d;
+  --background-secondary: #232325;
+  --background-deep: #19191B;
+
+  --text-primary: #fff;
+  --text-secondary: #b3b3b3;
+  --text-depressed: #C2C2C2;
+
+  --accent-primary: #3b70a9;
+
+  --outline-ui: #727272
+}

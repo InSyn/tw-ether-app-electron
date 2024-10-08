@@ -1,0 +1,9 @@
+<?xml-stylesheet href="title_editor_icon.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="30" height="25"
+     style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd" viewBox="0 0 0.201 0.166">
+    <path fill="currentColor" d="M.201.138a.03.03 0 0 1-.009.019.03.03 0 0 1-.021.009H.03A.03.03 0 0 1 .009.157.03.03 0 0 1 0 .136V.039Q0 .026.009.018A.03.03 0 0 1 .03.009h.108v.007H.03a.03.03 0 0 0-.017.007.02.02 0 0 0-.006.016v.097q0 .01.006.017Q.02.16.03.16h.141A.03.03 0 0 0 .188.153.02.02 0 0 0 .194.136V.057h.007z"
+    />
+    <path fill="currentColor" d="m.123.05.05-.047.001-.001Q.18 0 .186 0a.02.02 0 0 1 .009.006.02.02 0 0 1 .006.009v.006L.199.027.198.028.149.077H.148l-.027.01H.117L.113.086.112.085.111.081V.076zM.177.008.128.054l-.01.025L.117.08h.002L.145.071.193.024Q.195.019.194.016L.191.01.185.007Q.181.006.177.008M.032.066q0 .003-.003.003T.026.066V.054q0-.002.003-.003h.06q.003 0 .003.003v.012q0 .003-.003.003T.086.066V.058H.032z"
+    />
+    <path fill="currentColor" d="M.062.056v.072q0 .003-.003.003T.056.128V.056z"/>
+    <path fill="currentColor" d="M.047.131Q.044.131.044.128L.046.124h.026l.002.004q0 .003-.003.003z"/></svg>
